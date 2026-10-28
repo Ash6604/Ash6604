@@ -1,57 +1,90 @@
 # Aishwarya Patil
 
 <p align="center">
-  B.Tech Computer Science student at Manipal Institute of Technology Bengaluru, building data and AI projects
+  B.Tech Computer Science and Engineering (Artificial Intelligence) student at Manipal Institute of Technology, Bengaluru
 </p>
 
 <p align="center">
-  <img alt="Pronouns: she/her" src="https://img.shields.io/badge/pronouns-she%2Fher-27272A?style=flat-square">
+  <a href="https://github.com/Ash6604">GitHub</a> ·
+  <a href="https://linkedin.com/in/aishwarya-patil04022005">LinkedIn</a>
 </p>
 
 ---
 
-### About me
+### About Me
 
-- I study Computer Science and Engineering at **Manipal Institute of Technology Bengaluru**.
-- I like turning messy, unstructured data into something people can query and act on, from news text to legal contracts.
-- My projects sit where **data engineering, NLP and LLM applications** meet.
-- I practise data structures and algorithms on [NeetCode](https://github.com/Ash6604/neetcode-submissions).
+- 🎓 Pursuing B.Tech in Computer Science and Engineering (Artificial Intelligence).
+- 🤖 Interested in AI/ML, NLP, retrieval-augmented generation (RAG), and data engineering.
+- ⚙️ Enjoy building backend systems, intelligent document-processing applications, and data-driven solutions.
+- 🧩 Practising Data Structures and Algorithms on [NeetCode](https://github.com/Ash6604/neetcode-submissions).
 
-### Featured projects
+---
 
-#### 🛰️ [OntoRisk BI](https://github.com/Ash6604/ontorisk-bi): risk intelligence from business news
+### Featured Project
 
-Turns news articles into a queryable risk knowledge graph and data warehouse, with an interactive dashboard.
+#### ⚖️ [LawLight — Legal Document Analysis Platform](https://github.com/Ash6604/legal-analyzer-project)
 
-**Stack:** Python · spaCy · SPARQL · DuckDB · Streamlit
+An AI-powered legal document analysis platform that helps users understand rental, loan, and employment contracts through plain-language summaries, risky-clause detection, and conversational question answering.
 
-#### ⚖️ [LawLight](https://github.com/Ash6604/legal-analyzer-project): legal contract analyzer
+**Features**
+- 📄 Summarizes legal contracts and highlights potentially risky clauses.
+- 🔎 Uses retrieval-augmented generation to retrieve relevant contract information.
+- 💬 Supports natural-language questions and what-if scenarios, including late payments and early termination.
+- 📊 Generates decision flowcharts to help users explore contract scenarios.
+- ☁️ Processes uploaded documents using OCR and serves results through a cloud-deployed REST API.
 
-Upload a rental, loan or employment contract and get a plain-language summary, flagged risky clauses, and a chatbot that answers questions and explores what-if scenarios.
+**Tech Stack**
 
-**Stack:** Next.js · TypeScript · Flask · Google Cloud Run · Docker
+`Python` · `Flask` · `Next.js` · `Vertex AI` · `Gemini` · `Pinecone` · `Google Cloud Run`
 
-#### 💬 [RAG Document Chatbot](https://github.com/Ash6604/Rag-document-chatbot): document Q&A with retrieval
+**Key Results**
+- Improved clause retrieval accuracy from **68% to 86%**.
+- Achieved **95% OCR accuracy** when processing uploaded contracts.
 
-Watches a Google Drive folder, chunks and embeds new documents into Pinecone, and answers natural-language questions with a context-aware AI agent.
+---
 
-**Stack:** n8n · OpenAI embeddings · Pinecone
+### Technical Skills
 
-### Tech stack
-
-**Languages**
-
-<br>
+**Programming Languages**
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
 <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
 
-**Data, NLP & ML**
+**Backend Development**
 
-<br>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square">
 
-<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+**Databases & Vector Search**
+
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat-square">
+
+**AI / ML**
+
+<img alt="Google Cloud Vertex AI" src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+<img alt="RAG" src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square">
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-<img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=sp
+
+**Cloud & DevOps**
+
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+
+**Tools**
+
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+
+---
+
+### Currently
+
+- 🧠 Practising Data Structures and Algorithms.
+- 🛠️ Exploring backend development, AI applications, and retrieval-based systems.
